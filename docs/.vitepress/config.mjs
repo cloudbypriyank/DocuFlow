@@ -7,9 +7,7 @@ export default defineConfig({
   base: '/DocuFlow/',
   head: [
     // Favicon from your original config
-    ['link', { rel: 'icon', href: '/images/logo.svg' }],
-    // Stylesheet for the dialog feature
-    ['link', { rel: 'stylesheet', href: '/style.css' }]
+    ['link', { rel: 'icon', href: '/images/logo.svg' }]
   ],
 
   themeConfig: {
