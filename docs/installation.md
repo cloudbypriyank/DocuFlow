@@ -9,16 +9,17 @@ You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/
 ## Steps
 
 1.  **Clone the repository:**
-
+    ::: tip
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/cloudbypriyank/DocuFlow
+    cd DocuFlow
     ```
+    :::
 
 2.  **Install dependencies:**
 
     Open your terminal in the project root and run:
-
+    ::: tip
     ```bash
     npm install
     ```
@@ -26,14 +27,16 @@ You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/
     ```bash
     yarn install
     ```
+    :::
 
 
 3.  **Run the development server:**
 
     To start the local development server, run the following command:
-
+    ::: tip
     ```bash
     npm run docs:dev
     ```
+    :::
 
     This will start a hot-reloading development server, and you can view your documentation at `http://localhost:5173`.
