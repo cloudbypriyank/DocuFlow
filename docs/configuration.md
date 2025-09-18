@@ -1,10 +1,10 @@
 # Configuration
 
-This page explains the main configuration options for this documentation template, located in `docs/.vitepress/config.js`.
+This page explains the main configuration options for this documentation template, located in `docs/.vitepress/config.mjs`.
 
 ## Main Configuration
 
-The `export default` object in `config.js` contains all the configuration for your VitePress site.
+The `export default` object in `config.mjs` contains all the configuration for your VitePress site.
 
 ### `title`
 
